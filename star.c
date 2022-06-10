@@ -1,3 +1,5 @@
+#This code creates a rhombus by combining two triangles
+
 #include <stdio.h>
 
 int main()
